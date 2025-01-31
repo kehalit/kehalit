@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Kehalit 👋
 
 I'm an aspiring **Software Engineer** currently taking a **certification program** at **MasterSchool** to deepen my knowledge in **full-stack development**. My journey in technology started with a focus on **mobile money solutions**, and I've expanded my expertise into areas like **web development**, **API integration**, and **cloud technologies**.
 
