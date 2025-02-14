@@ -1,6 +1,6 @@
 # Hello, I'm Kehalit 👋
 
-I'm an aspiring **Software Engineer** currently taking a **certification program** at **MasterSchool** to deepen my knowledge in **full-stack development**. My journey in technology started with a focus on **mobile money solutions**, and I've expanded my expertise into areas like **web development**, **API integration**, and **cloud technologies**.
+I'm taking a **certification program** at **MasterSchool** to deepen my knowledge in **full-stack development**. My journey in technology started with a focus on **mobile money solutions**, and I've expanded my expertise into areas like **web development**, **API integration**, and **cloud technologies**.
 
 ## 🚀 About Me
 I am passionate about **building impactful software** that solves real-world problems. I’ve worked in the **fintech** and **mobile payment** sectors, where I contributed to high-impact projects such as mobile money systems. Now, I'm excited to apply what I've learned and continue growing in the **software development** field.
