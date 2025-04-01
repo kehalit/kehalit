@@ -1,6 +1,6 @@
 # Hello, I'm Kehalit 👋
 
-I'm taking a **certification program** at **MasterSchool** to deepen my knowledge in **full-stack development**. My journey in technology started with a focus on **mobile money solutions**, and I've expanded my expertise into areas like **web development**, **API integration**, and **cloud technologies**.
+I'm taking a **certification program** at **Masterschool** to deepen my knowledge in **full-stack development**. My journey in technology started with a focus on **mobile money solutions**, and I've expanded my expertise into areas like **web development**, **API integration**, and **cloud technologies**.
 
 ## 🚀 About Me
 I am passionate about **building impactful software** that solves real-world problems. I’ve worked in the **fintech** and **mobile payment** sectors, where I contributed to high-impact projects such as mobile money systems. Now, I'm excited to apply what I've learned and continue growing in the **software development** field.
@@ -27,10 +27,19 @@ I am passionate about **building impactful software** that solves real-world pro
   - Worked with **post-launch analytics** to optimize performance.
 - **Technologies**: **Node.js**, **Temnus**, **CPS**.
 
-## 📚 Currently Learning
-- **Full-Stack Development** with **React** and **Node.js** to build dynamic web applications.
-- **API development** and **microservices architecture** for scalable backend systems.
-- **Data Structures and Algorithms** to strengthen my problem-solving skills for technical interviews.
+## 📚 Currently Working on
+
+- **Flask-based MovieWebApp**: A web application to manage movie collections with features like user management and movie CRUD operations, integrated with the **OMDb API** to fetch movie details (title, director, year, IMDb rating).
+- **User Management**: Implementing user creation, viewing, and deletion functionality.
+- **Movie Management**: Adding, updating, and deleting movies in a user's collection.
+- **Error Handling**: Custom error pages for 404 (Not Found) and 500 (Internal Server Error).
+- **SQLAlchemy**: Using SQLite for storing user and movie data locally.
+
+Technologies Used:  
+- **Flask**, **Python 3.6+**, **SQLAlchemy**, **OMDb API**
+
+Check out the repository for the full code and setup instructions!
+
 
 ## 🛠️ Skills
 - **Languages**: Python, Java, C++, PHP, JavaScript, SQL
@@ -39,9 +48,9 @@ I am passionate about **building impactful software** that solves real-world pro
 - **API Integration**: Westernunion, Dstv
 
 ## 📞 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kehalit)
+- [LinkedIn](www.linkedin.com/in/kehalit-mersha)
 - Email: kahineb.kn@gmail.com
-- [GitHub](https://github.com/kehalit)
+
 
 ## 🧐 Fun Fact
 - When I'm not coding, I'm learning something new—whether it's a new programming language, a framework, or exploring new tech trends.
