@@ -29,14 +29,14 @@ I am passionate about **building impactful software** that solves real-world pro
 
 ## 📚 Currently Working on
 
-- **PinTrail — a travel journaling web application that helps users log their journeys, visualize trip routes, and store photos with interactive maps.
-- **Map Integration: Interactive map built with Leaflet to drop pins, view trip routes, and visualize travel paths.
-- **User Authentication: Secure login and session handling using JWT.
-- **Trip & Activity Management: Create, update, and organize trips, activities, and photos.
-- **Photo Storage: Integrated with Supabase for seamless online media storage.
-- **Theme Toggle: Dark and Light modes for personalized viewing.
-- **Database Migration: Transitioned from SQLite to PostgreSQL for scalability.
-- **API Documentation: Swagger integration for easy testing and reference.
+- PinTrail — a travel journaling web application that helps users log their journeys, visualize trip routes, and store photos with interactive maps.
+- Map Integration: Interactive map built with Leaflet to drop pins, view trip routes, and visualize travel paths.
+- User Authentication: Secure login and session handling using JWT.
+- Trip & Activity Management: Create, update, and organize trips, activities, and photos.
+- Photo Storage: Integrated with Supabase for seamless online media storage.
+- Theme Toggle: Dark and Light modes for personalized viewing.
+- Database Migration: Transitioned from SQLite to PostgreSQL for scalability.
+- API Documentation: Swagger integration for easy testing and reference.
 
 Technologies Used:  
 - **Flask**, **Python 3.6+**, **React**, **PostgreSQL**, **SQLAlchemy**, **JWT Auth**, **Supabase**, **Leaflet.js**, **Swiper**, **Unsplash API**, **Nominatim (OpenStreetMap)**
@@ -56,4 +56,4 @@ Check out the repository for setup instructions, API endpoints, and demo screens
 
 
 ## 🧐 Fun Fact
-- When I'm not coding, I'm learning something new—whether it's a new programming language, a framework, or exploring new tech trends.
+- When I'm not coding, I'm learning something new, whether it's a new programming language, a framework, or exploring new tech trends.
